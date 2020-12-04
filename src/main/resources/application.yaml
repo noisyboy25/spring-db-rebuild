@@ -1,0 +1,9 @@
+spring:
+  liquibase:
+    enabled: false
+  data:
+    rest:
+      base-path: api
+logging:
+  file:
+    path: .
